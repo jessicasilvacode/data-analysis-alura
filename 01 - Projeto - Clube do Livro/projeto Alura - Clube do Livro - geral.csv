@@ -1,0 +1,59 @@
+LIVROS,QUANTIDADE,VALOR,VENDA
+Harry Potter e a Pedra Filosofal,7,"R$ 105,00","R$ 147,00"
+Harry Potter e a Câmara Secreta,8,"R$ 153,60","R$ 215,04"
+Harry Potter e o Prisioneiro de Azkaban,10,"R$ 240,00","R$ 336,00"
+Harry Potter e o Cálice de Fogo,12,"R$ 360,00","R$ 504,00"
+Harry Potter e a Ordem da Fênix,10,"R$ 240,00","R$ 336,00"
+Harry Potter e o Enigma do Príncipe,9,"R$ 270,00","R$ 378,00"
+Harry Potter e as Relí­quias da Morte,12,"R$ 432,00","R$ 604,80"
+O Hobbit,7,"R$ 168,00","R$ 235,20"
+Senhor do Anéis - A sociedade do Anel,6,"R$ 165,60","R$ 231,84"
+Senhor dos Anéis - As duas torres,6,"R$ 165,60","R$ 231,84"
+Senhor dos Anéis - O retorno do Rei,6,"R$ 165,60","R$ 231,84"
+Don Quixote,5,"R$ 450,00","R$ 630,00"
+Um conto de duas cidades,4,"R$ 168,00","R$ 235,20"
+O Pequeno Príncipe,20,"R$ 360,00","R$ 504,00"
+O caso dos dez Negrinhos,10,"R$ 180,00","R$ 252,00"
+O sonho da câmara vermelha,4,"R$ 240,00","R$ 336,00"
+"Ela, a Feiticeira",5,"R$ 90,00","R$ 126,00"
+"O leão, a Feiticeira, e o guarda-roupa",6,"R$ 162,00","R$ 226,80"
+O Código da Vinci,10,"R$ 240,00","R$ 336,00"
+TOTAL:,157,"R$ 4.355,40","R$ 6.097,56"
+,,,
+,,,
+,,,
+,,,
+,,,
+ESTILO,VENDAS,,
+Romance,500,,
+Auto-ajuda,1000,,
+Ficção,2000,,
+Estrangeiros,300,,
+Direito,500,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+SEMANAS,VENDAS,VELOCIDADE,ACELERAÇÃO
+1,"R$ 800,00",,
+2,"R$ 640,00","-R$ 160,00",
+3,"R$ 800,00","R$ 160,00","R$ 320,00"
+4,"R$ 700,00","-R$ 100,00","-R$ 260,00"
+5,"R$ 930,00","R$ 230,00","R$ 330,00"
+6,"R$ 1.120,00","R$ 190,00","-R$ 40,00"
+7,"R$ 945,00","-R$ 175,00","-R$ 365,00"
+8,"R$ 900,00","-R$ 45,00","R$ 130,00"
+9,"R$ 1.200,00","R$ 300,00","R$ 345,00"
+10,"R$ 1.300,00","R$ 100,00","-R$ 200,00"
+11,"R$ 1.100,00","-R$ 200,00","-R$ 300,00"
+12,"R$ 1.100,00","R$ 0,00","R$ 200,00"
+13,"R$ 900,00","-R$ 200,00","-R$ 200,00"
+14,"R$ 930,00","R$ 30,00","R$ 230,00"
